@@ -1,0 +1,7 @@
+# Ignore everything by default
+*
+
+# Whitelist (include) specific files and directories
+!cat_vs_dog_classifier.py
+!cats-and-dogs.keras
+!requirements.txt
